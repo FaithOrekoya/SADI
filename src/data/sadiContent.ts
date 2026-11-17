@@ -46,8 +46,8 @@ export interface TestimonialItem {
 }
 
 export const HERO_IMAGE = {
-  src: '/src/assets/images/hero_driver_training_1794921341283.jpg',
-  alt: 'SADI driving instructor guiding an adult learner inside a modern dual-control training vehicle on an Eastern Cape road',
+  src: '/src/assets/images/hero_sadi_training_wide_1794926045824.jpg',
+  alt: 'SADI driving instructor in a navy shirt speaking beside a modern silver learner training vehicle on a sunlit South African coastal road',
 };
 
 export const ABOUT_IMAGE = {
